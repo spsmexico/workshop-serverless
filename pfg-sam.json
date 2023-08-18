@@ -1,0 +1,7 @@
+{
+   "project":"workshop",
+   "cfn_stack":"api",
+   "cfn_lint_version":"0.56.4",
+   "sam_container":"public.ecr.aws/sam/build-python3.8:1.32.0",
+   "sam_bucket":"ana-workshop-serverless"
+}
